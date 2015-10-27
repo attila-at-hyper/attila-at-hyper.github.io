@@ -1,0 +1,11 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "3T8S3R2P2B.no.hyper.sekundering",
+				"paths": [ "/sekundering/*" ]
+			}
+		]
+	}
+}
