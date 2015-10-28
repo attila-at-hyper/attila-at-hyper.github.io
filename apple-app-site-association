@@ -1,11 +1,10 @@
 {
 	"applinks": {
 		"apps": [],
-		"details": [
-			{
-				"appID": "XVAH95CHDC.no.hyper.sekundering",
-				"paths": [ "/sekundering/*" ]
+		"details": {
+			"XVAH95CHDC.no.hyper.sekundering": {
+				"paths": [ "/sekundering/*", "/sekundering" ]
 			}
-		]
+		}
 	}
 }
